@@ -34,12 +34,50 @@
     },
     "work": [
         {
-            "name": "Dark Wolf Solutions",
-            "highlights": [],
+            "name": "RVCM",
+            "description": "RevaComm is an enterprise digital transformation company providing consulting, design, and software engineering services. It specializes in DevSecOps, agile web and software development, staff augmentation, cloud hosting and support, and cybersecurity assessment. The company serves government, defense, and corporate markets.",
+            "endDate": "2022-09-09",
+            "highlights": [
+                "Be responsible for managing software products and lead IT execution and delivery",
+                "Engage with the customer and project teams daily to ensure both groups are happy",
+                "Be the customer point-of-contact for issues and outcomes",
+                "Oversee technical team efforts to ensure alignment with stakeholder objectives",
+                "Track project cost, schedule, and resource performance aligned with project scope",
+                "Manage team workload and outcomes",
+                "Be the facilitator to remove any team blockers",
+                "Engage with key stakeholders as necessary to align technical tasks as appropriate",
+                "Be required to have and maintain the insights into the project and team as to when they are blocked",
+                "Manage iteration planning meetings, sprints, backlogs, and roadmap",
+                "Assist managers/training team members with training and occasionally posting updates to support their online communities or interest groups",
+                "Provide support for outreach events outside program to grow RevaComm",
+                "Responsible for follow-up and customer satisfaction surveys/NPS",
+                "Provide weekly updates on actions/progress taken during the week",
+                "Provide month-end reports to internal and external stakeholders"
+            ],
             "location": "Colorado Springs, CO",
-            "position": "Principal Associate / Scrum Knight",
+            "position": "Technical Project Manager",
+            "startDate": "2022-09-12",
+            "summary": "RevaComm Project Managers serve our project teams and help to drive toward the desired outcomes. This covers a wide variety of tasks like strategic program development, proposal writing, opportunity mining, customer coordination, customer service, project management, program and project reporting, program and project marketing, budgeting and time management, as well as other services.",
+            "url": "https://www.darkwolfsolutions.com/"
+        },
+        {
+            "name": "Dark Wolf Solutions",
+            "description": "",
+            "endDate": "2022-09-09",
+            "highlights": [
+                "Enterprise-level Scrum Master",
+                "Facilitates task flow across Value Stream Scrum of Scrums",
+                "Coaches Scrum Masters on Agile framework execution",
+                "Facilitates communication between the teams and Business/Technical Leadership",
+                "Coaches Business and Technical leadership teams on Agile philosophies, framework, and culture",
+                "Facilitates Business Leadership & Technical Leadership Backlog Grooming",
+                "Removes Enterprise wide blockers",
+                "Helps map dependencies of all work, across all product teams"
+            ],
+            "location": "Colorado Springs, CO",
+            "position": "Principal Associate",
             "startDate": "2020-11-09",
-            "summary": "Scrum Knight, Scrum Master, and DevSecOps Engineer at Platform One Big Bang",
+            "summary": "Scrum Lord, Scrum Knight, Scrum Master, and DevSecOps Engineer at Platform One",
             "url": "https://www.darkwolfsolutions.com/"
         },
         {
@@ -466,8 +504,8 @@
         }
     ],
     "meta": {
-      "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-      "version": "v1.0.0",
-      "lastModified": "2017-12-24T15:53:00"
+        "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+        "version": "v1.0.0",
+        "lastModified": "2017-12-24T15:53:00"
     }
 }
