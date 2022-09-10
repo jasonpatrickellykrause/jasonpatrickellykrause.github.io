@@ -62,7 +62,7 @@
         },
         {
             "name": "Dark Wolf Solutions",
-            "description": "",
+            "description": "Dark Wolf Solutions is an IT consultancy firm that offers software development, system engineering and management solutions.",
             "endDate": "2022-09-09",
             "highlights": [
                 "Enterprise-level Scrum Master",
@@ -82,6 +82,7 @@
         },
         {
             "name": "Blue Cord CrossFit",
+            "description": "CrossFit is a lifestyle characterized by safe, effective exercise and sound nutrition. CrossFit can be used to accomplish any goal, from improved health to weight loss to better performance.",
             "highlights": [],
             "location": "Gleneagle, CO",
             "position": "CrossFit Level 2 Trainer (CF-L2 Trainer)",
