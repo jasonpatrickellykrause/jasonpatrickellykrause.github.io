@@ -384,7 +384,7 @@
         },
         {
             "description": "CrossFit is a lifestyle characterized by safe, effective exercise and sound nutrition. CrossFit can be used to accomplish any goal, from improved health to weight loss to better performance.",
-            "endDate": "",
+            "endDate": null,
             "highlights": [],
             "location": "Gleneagle, CO",
             "name": "Blue Cord CrossFit",
