@@ -39,6 +39,12 @@
     },
     "certificates": [
         {
+            "date": "2023-04-14",
+            "issuer": "Project Management Institute",
+            "name": "Project Management Professional (PMP)",
+            "summary": "PMP® Number: 3451936"
+        },
+        {
             "date": "2022-01-13",
             "issuer": "Google Cloud",
             "name": "Google Cloud Certified Associate Cloud Engineer",
