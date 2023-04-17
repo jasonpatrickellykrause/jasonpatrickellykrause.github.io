@@ -19,11 +19,11 @@ jobs:
       - uses: actions/checkout@v2
       - name: Export resume as HTML
         run: |
-          npm install resumed -g
+          npm install resumed
           npm install jsonresume-theme-even
           npm audit fix        
           resumed validate resume.json
-          resumed render resume.json --theme jsonresume-theme-even --output index.html
+          resumed render resume.json --theme even --output index.html
       - name: Commit published HTML
         id: commit
         run: |
