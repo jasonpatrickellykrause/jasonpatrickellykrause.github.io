@@ -19,8 +19,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Export resume as HTML
         run: |
-          npm install resumed
-          npm install jsonresume-theme-even
+          npm install resumed -g
+          npm install jsonresume-theme-even -g
           npm audit fix        
           resumed validate resume.json
           resumed render resume.json --theme even --output index.html
