@@ -20,8 +20,7 @@ jobs:
       - name: Export resume as HTML
         run: |
           npm install resumed -g
-          npm install jsonresume-theme-even -g
-          npm audit fix        
+          npm install jsonresume-theme-even -g                
           resumed validate resume.json
           resumed render resume.json --theme even --output index.html
       - name: Commit published HTML
