@@ -361,14 +361,13 @@
             "description": "Dark Wolf Solutions is an IT consultancy firm that offers software development, system engineering and management solutions.",
             "endDate": "2022-09-09",
             "highlights": [
-                "Enterprise-level Scrum Master",
-                "Facilitates task flow across Value Stream Scrum of Scrums",
-                "Coaches Scrum Masters on Agile framework execution",
-                "Facilitates communication between the teams and Business/Technical Leadership",
-                "Coaches Business and Technical leadership teams on Agile philosophies, framework, and culture",
-                "Facilitates Business Leadership & Technical Leadership Backlog Grooming",
-                "Removes Enterprise wide blockers",
-                "Helps map dependencies of all work, across all product teams"
+                "Enterprise-level Scrum Master facilitated task flow across Value Stream Scrum of Scrums",
+                "Coached Scrum Masters on Agile framework execution",
+                "Facilitated communication between teams and business/technical leadership",
+                "Coached business and technical leadership teams on Agile philosophies, framework, and culture",
+                "Facilitated business leadership & technical leadership backlog grooming",
+                "Removed enterprise wide blockers",
+                "Helped map dependencies of all work, across all product teams"
             ],
             "location": "Colorado Springs, CO",
             "name": "Dark Wolf Solutions",
@@ -379,102 +378,146 @@
         },
         {
             "description": "CrossFit is a lifestyle characterized by safe, effective exercise and sound nutrition. CrossFit can be used to accomplish any goal, from improved health to weight loss to better performance.",
-            "highlights": [],
+            "highlights": [
+                "Educate clients on proper form, gymnastic and Olympic lifting techniques, injury prevention, mobility, and proper nutrition.",
+                "Provide specialized training for clients based on personal needs and goals."
+            ],
             "location": "Gleneagle, CO",
             "name": "Blue Cord CrossFit",
             "position": "Certified CrossFit Level 3 Trainer (Certified CF-L3 Trainer)",
             "startDate": "2019-10-01",
-            "summary": "Lead CrossFit workouts for a wide variety of clients with different goals. Educate clients on proper form, gymnastic and Olympic lifting techniques, injury prevention, mobility, and proper nutrition. Provide specialized training for clients based on personal needs and goals.",
+            "summary": "Lead CrossFit workouts for a wide variety of clients with different goals.",
             "url": "https://www.bluecordcrossfit.com/"
         },
         {
             "endDate": "2020-11-09",
-            "highlights": [],
+            "highlights": [
+                "Team goals included replacing costly legacy lab solutions with Lab as a Service (LaaS) solution that provided internal customers with immutable test infrastructure.",
+                "Success of initial program ignited interest in developing similar solution beyond development into test and delivery.",
+                "Work with stakeholders and customers to develop continuous integration platform pipeline using Gitlab CI, HashiCorp Packer, Ansible, and OpenSCAP."
+            ],
             "location": "Colorado Springs, CO",
             "name": "Raytheon Technologies",
             "position": "Platform Engineer / Scrum Master",
             "startDate": "2020-06-01",
-            "summary": "Developer and Scrum Master for DevSecOps Platform Engineering team. Initial team goals included replacing costly legacy lab solutions with Lab as a Service (LaaS) solution that provides internal customers with immutable test infrastructure. Success of initial program has ignited interest in developing similar solution beyond development into test and delivery. Work with stakeholders and customers to develop continuous integration platform pipeline using Gitlab CI, HashiCorp Packer, Ansible, and OpenSCAP.",
+            "summary": "Developer and Scrum Master for DevSecOps Platform Engineering team.",
             "url": "https://www.rtx.com/"
         },
         {
             "endDate": "2020-05-31",
-            "highlights": [],
+            "highlights": [
+                "Refactored Group Policy testing and deployment to ensure delivery of versioned security baselines to production systems.",
+                "Brought system baselines into current Security Technical Implementation Guide (STIG) recommendations.",
+                "Successfully migrated team code base to GitLab ensuring accurate change history and version control.",
+                "Performed additional role as Scrum Master for automation team.",
+                "Worked as servant-leader to facilitate value delivery and remove developer roadblocks."
+            ],
             "location": "Colorado Springs, CO",
             "name": "Raytheon Technologies",
             "position": "Senior Cybersecurity Engineer II / Scrum Master",
             "startDate": "2019-03-01",
-            "summary": "Refactored Group Policy testing and deployment to ensure delivery of versioned security baselines to production systems. Brought system baselines into current Security Technical Implementation Guide (STIG) recommendations. Successfully migrated team code base to GitLab ensuring accurate change history and version control. Performed additional role as Scrum Master for automation team. Worked as servant-leader to facilitate value delivery and remove developer roadblocks.",
+            "summary": "Cybersecurity Engineer specializing in compliant automation",
             "url": "https://www.rtx.com/"
         },
         {
             "endDate": "2019-02-28",
-            "highlights": [],
+            "highlights": [
+                "Developed stand-alone PowerShell based solutions to deploy and verify the mitigation of vulnerabilities in legacy Windows systems.",
+                "Accelerated deployment of modern Windows systems as a PowerShell Desired State Configuration developer.",
+                "Worked with customer prioritize legacy system vulnerability remediation while minimizing resources required to meet customer needs."
+            ],
             "location": "Colorado Springs, CO",
             "name": "Raytheon Technologies",
             "position": "Senior Cybersecurity Engineer II",
             "startDate": "2018-04-01",
-            "summary": "Designed Cybersecurity solutions for the NORAD Integrated Tactical Warning/Attack Assessment and Space Support Contract (NISSC). Developed stand-alone PowerShell based solutions to deploy and verify the mitigation of vulnerabilities in legacy Windows systems. Accelerated deployment of modern Windows systems as a PowerShell Desired State Configuration developer. Worked with customer prioritize legacy system vulnerability remediation while minimizing resources required to meet customer needs.",
+            "summary": "Designed Cybersecurity solutions for the NORAD Integrated Tactical Warning/Attack Assessment and Space Support Contract (NISSC).",
             "url": "https://www.rtx.com/"
         },
         {
             "endDate": "2018-03-01",
-            "highlights": [],
+            "highlights": [
+                "Designed and lead product demos, Proof of Concepts and pilot engagements to help drive requirements, success factors, and customer confidence in End User Engineer's (EUC) proprietary software solutions.",
+                "Work closely with the EUC software development team to communicate requirements and participate in functional design and prioritization of software enhancement/features backlog.",
+                "Design and deliver training and procedures for end user consumption."
+            ],
             "location": "Colorado Springs, CO",
             "name": "Vykin Corporation",
             "position": "Senior End User Computing Engineer",
             "startDate": "2017-10-01",
-            "summary": "Work with Vykin's customers to architect Windows-based end-user solutions (e.g. Windows 10 migration), including key success factors, project scope while driving a better understanding of the customer’s environment and potential project risks.  Design and lead product demos, Proof of Concepts and pilot engagements to help drive requirements, success factors and customer confidence in End User Engineer's (EUC) proprietary software solutions.  Work closely with the EUC software development team to communicate requirements and participate in functional design and prioritization of software enhancement/features backlog.   Design and deliver procedures for end user consumption.",
+            "summary": "Work with Vykin's customers to architect Windows-based end-user solutions",
             "url": "https://www.sosi.com/"
         },
         {
             "endDate": "2017-09-01",
-            "highlights": [],
+            "highlights": [
+                "Specialized in Windows, Server, Active Directory and Virtualization technologies with deep understanding and ability to deliver timely and creative incident resolution focused on root cause analysis prevention, and subsequent knowledge transfer.",
+                "Successfully managed Microsoft IaaS resources for major political campaign event resulting in system-wide stability and security."
+            ],
             "location": "Colorado Springs, CO",
             "name": "Microsoft",
             "position": "Premier Field Engineer",
             "startDate": "2016-01-01",
-            "summary": "Platform PFE for DoD customers working primarily with Navy, MDA, and USMC customers  Specialized in Windows, Server, Active Directory and Virtualization technologies with deep understanding and ability to deliver timely and creative incident resolution focused on root cause analysis, prevention, and subsequent knowledge transfer  Successfully managed Microsoft IaaS resources for major political campaign event resulting in system-wide stability and security.",
+            "summary": "Platform PFE for DoD customers working primarily with Navy, MDA, and USMC customers.",
             "url": "https://www.microsoft.com/"
         },
         {
             "endDate": "2019-09-30",
-            "highlights": [],
+            "highlights": [
+                "Educate clients on proper form, gymnastic and Olympic lifting techniques, injury prevention, mobility, and proper nutrition.",
+                "Provide specialized training for clients based on personal needs and goals."
+            ],
             "location": "Monument, CO",
             "name": "CrossFit 7070 LLC",
             "position": "CrossFit Level 2 Trainer (CF-L2 Trainer)",
             "startDate": "2015-09-01",
-            "summary": "Lead CrossFit workouts for a wide variety of clients with different goals. Educate clients on proper form, gymnastic and Olympic lifting techniques, injury prevention, mobility, and proper nutrition. Provide specialized training for clients based on personal needs and goals.",
+            "summary": "Lead CrossFit workouts for a wide variety of clients with different goals.",
             "url": "https://www.crossfit7070.com/"
         },
         {
             "endDate": "2016-01-01",
-            "highlights": [],
+            "highlights": [
+                "Explore and test new Windows versions and features for inclusion in the enterprise.",
+                "Supported Microsoft Endpoint Configuration Manager (SCCM) infrastructure.",
+                "Engineered, tested, and implemented disaster recovery solution using Hyper-V Replica.",
+                "Led team in server deployments during SCCM Distribution Point upgrades and documented process improvements."
+            ],
             "location": "Colorado Springs, CO",
             "name": "Lockheed Martin",
             "position": "Senior System Integration Analyst",
             "startDate": "2013-10-01",
-            "summary": "Develop and test Windows images for enterprise deployment  Explore and test new Windows versions and features for inclusion in the enterprise.  Supported SCCM 2012 and 2007 Windows infrastructure.  Engineered, tested, and implemented disaster recovery solution using Hyper-V Replica.  Led team in server deployments during 2012 Distribution Point roll out and process improvement.",
+            "summary": "Develop and test Windows images for enterprise deployment.",
             "url": "https://www.lockheedmartin.com"
         },
         {
             "endDate": "2013-10-01",
-            "highlights": [],
+            "highlights": [
+                "Led team in efforts related to PowerShell scripting and automation.",
+                "Implemented numerous improvements to standard operating procedures resulting in efficient and standardized processes that reduced workflow bottlenecks.",
+                "Developed and performed integration and system tests for Active Directory service upgrades.",
+                "Tested ongoing software upgrades and enhancements with a focus on directory service quality and stability."
+            ],
             "location": "Colorado Springs, CO",
             "name": "Lockheed Martin",
             "position": "Senior System Administrator",
             "startDate": "2009-05-01",
-            "summary": "Established role in the company as an expert in Group Policy and Active Directory delegation.  Led team in efforts related to PowerShell scripting and automation.  Implemented numerous improvements to standard operating procedures resulting in efficient and standardized processes that reduced workflow bottlenecks.  Developed and performed integration and system tests for Active Directory service upgrades.  Tested ongoing software upgrades and enhancements with a focus on directory service quality and stability.",
+            "summary": "Established role in the company as an expert in Group Policy and Active Directory delegation.",
             "url": "https://www.lockheedmartin.com"
         },
         {
             "endDate": "2009-05-01",
-            "highlights": [],
+            "highlights": [
+                "Maintain smooth operation of computer systems.",
+                "Duties include active directory and group policy management, SMS and WSUS administration and software deployment, Operating System, and application support.",
+                "Worked with Dept. of Defense and USAF programs to evangelize new operating system deployment and testing.",
+                "Achieved the highest percentage of upgraded systems and test participants among participating sites.",
+                "Developed role-based security procedures using administrative and technical controls that stabilized network while enhancing system security.",
+                "Consolidated costly legacy systems to VMware."
+            ],
             "location": "Colorado Springs, CO",
             "name": "Lockheed Martin",
             "position": "Senior System Administrator",
             "startDate": "2007-08-01",
-            "summary": "Support unclassified networks for Air Force and contractors. Maintain smooth operation of computer systems. Duties include active directory and group policy management, SMS and WSUS administration and software deployment, Operating System, and application support.   Worked with Dept. of Defense and USAF programs to evangelize new operating system deployment and testing. Achieved the highest percentage of upgraded systems and test participants among participating sites.  Developed role-based security procedures using administrative and technical controls that stabilized network while enhancing system security.  Consolidated costly legacy systems to VMware.",
+            "summary": "Support unclassified networks for Air Force and contractors.",
             "url": "https://www.lockheedmartin.com"
         }
     ]
