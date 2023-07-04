@@ -487,46 +487,6 @@
             "startDate": "2007-08-01",
             "summary": "Support unclassified networks for Air Force and contractors. Maintain smooth operation of computer systems. Duties include active directory and group policy management, SMS and WSUS administration and software deployment, Operating System, and application support.   Worked with Dept. of Defense and USAF programs to evangelize new operating system deployment and testing. Achieved the highest percentage of upgraded systems and test participants among participating sites.  Developed role-based security procedures using administrative and technical controls that stabilized network while enhancing system security.  Consolidated costly legacy systems to VMware.",
             "url": "https://www.lockheedmartin.com"
-        },
-        {
-            "endDate": "2007-08-01",
-            "highlights": [],
-            "location": "Colorado Springs, CO",
-            "name": "Lockheed Martin",
-            "position": "Help Desk Support Technician",
-            "startDate": "2005-11-01",
-            "summary": "Resolved technical issues for USAF customers at Schriever AFB. Supported general operating system, networking, hardware, and LOB issues for approximately four thousand clients.  Responsible for advanced troubleshooting of critical issues, while acting as a liaison to the disparate system and product contacts.",
-            "url": "https://www.lockheedmartin.com"
-        },
-        {
-            "endDate": "2005-11-01",
-            "highlights": [],
-            "location": "Colorado Springs, CO",
-            "name": "HP",
-            "position": "Help Desk Support Technician",
-            "startDate": "2003-08-01",
-            "summary": "Resolved technical issues for Microsoft internal employees, supporting messaging and collaboration tools, as well as remote access.  Authored numerous technical articles for internal solution database resulting in lower call times.  Trained peers into the department to expand support queues and reduce wait times.  Acted as liaison between levels of support staff to ensure the quality of communication.",
-            "url": "https://www.hp.com"
-        },
-        {
-            "endDate": "2002-10-01",
-            "highlights": [],
-            "location": "Colorado Springs, CO",
-            "name": "Wide Open West",
-            "position": "Senior Technical Support Engineer",
-            "startDate": "2002-04-01",
-            "summary": "",
-            "url": "https://www.wowway.com/"
-        },
-        {
-            "endDate": "2002-04-01",
-            "highlights": [],
-            "location": "Colorado Springs, CO",
-            "name": "Gateway",
-            "position": "Help Desk Support Technician",
-            "startDate": "1999-10-01",
-            "summary": "",
-            "url": "https://www.gateway.com/"
         }
     ]
 }
