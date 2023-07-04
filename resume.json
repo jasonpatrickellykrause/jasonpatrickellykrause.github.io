@@ -242,7 +242,7 @@
     "interests": [
         {
             "keywords": [
-                "CrossFit",
+                "Certified CrossFit Level 3 Trainer (CF-L3)",
                 "Playing Bass Guitar",
                 "Reading",
                 "Taking care of my cats",
@@ -320,19 +320,6 @@
             "url": "https://www.darkwolfsolutions.com/"
         },
         {
-            "description": "CrossFit is a lifestyle characterized by safe, effective exercise and sound nutrition. CrossFit can be used to accomplish any goal, from improved health to weight loss to better performance.",
-            "highlights": [
-                "Educate clients on proper form, gymnastic and Olympic lifting techniques, injury prevention, mobility, and proper nutrition.",
-                "Provide specialized training for clients based on personal needs and goals."
-            ],
-            "location": "Gleneagle, CO",
-            "name": "Blue Cord CrossFit",
-            "position": "Certified CrossFit Level 3 Trainer (Certified CF-L3 Trainer)",
-            "startDate": "2019-10-01",
-            "summary": "Lead CrossFit workouts for a wide variety of clients with different goals.",
-            "url": "https://www.bluecordcrossfit.com/"
-        },
-        {
             "endDate": "2020-11-09",
             "highlights": [
                 "Team goals included replacing costly legacy lab solutions with Lab as a Service (LaaS) solution that provided internal customers with immutable test infrastructure.",
@@ -405,20 +392,6 @@
             "startDate": "2016-01-01",
             "summary": "Platform PFE for DoD customers working primarily with Navy, MDA, and USMC customers.",
             "url": "https://www.microsoft.com/"
-        },
-        {
-            "endDate": "2019-09-30",
-            "description": "",
-            "highlights": [
-                "Educate clients on proper form, gymnastic and Olympic lifting techniques, injury prevention, mobility, and proper nutrition.",
-                "Provide specialized training for clients based on personal needs and goals."
-            ],
-            "location": "Monument, CO",
-            "name": "CrossFit 7070",
-            "position": "CrossFit Level 2 Trainer (CF-L2 Trainer)",
-            "startDate": "2015-09-01",
-            "summary": "Led CrossFit workouts for a wide variety of clients with different goals.",
-            "url": "https://www.crossfit7070.com/"
         },
         {
             "endDate": "2016-01-01",
