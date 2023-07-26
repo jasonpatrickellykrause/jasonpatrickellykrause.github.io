@@ -3,11 +3,10 @@
         "email": "jasonkrause@live.com",
         "image": "bio-photo.jpg",
         "label": "Passionate automator, advocate for a growth mindset and grit.",
-        "location": {
-            "address": "PO BOX 1642",
-            "city": "Palmer Lake",
+        "location": {            
+            "city": "Monument",
             "countryCode": "US",
-            "postalCode": "CO 80133",
+            "postalCode": "CO 80132",
             "region": "Colorado"
         },
         "name": "Jason Patric Kelly Krause",
@@ -254,8 +253,7 @@
             "keywords": [
                 "Climbing",
                 "Mountain Biking",
-                "Snowboarding",
-                "Trail Running"
+                "Snowboarding"
             ],
             "name": "Outdoor Activities"
         }
