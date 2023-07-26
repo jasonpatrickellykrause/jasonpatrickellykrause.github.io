@@ -1,7 +1,7 @@
 node_modules/
 npm-debug.log
-resume.html
-resume.pdf
+*.html
+*.pdf
 resume.json
 package.json
 package-lock.json
