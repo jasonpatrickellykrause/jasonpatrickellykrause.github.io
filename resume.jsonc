@@ -1,0 +1,447 @@
+{
+    "basics": {
+        "email": "jasonkrause@live.com",
+        "image": "bio-photo.jpg",
+        "label": "Passionate automator, advocate for a growth mindset and grit.",
+        "location": {
+            "address": "PO BOX 1642",
+            "city": "Palmer Lake",
+            "countryCode": "US",
+            "postalCode": "CO 80133",
+            "region": "Colorado"
+        },
+        "name": "Jason Patric Kelly Krause",
+        "phone": "(719) 439-8533",
+        "profiles": [
+            {
+                "network": "Twitter",
+                "url": "https://twitter.com/Jason_Krause_CO",
+                "username": "Jason_Krause_CO"
+            },
+            {
+                "network": "LinkedIn",
+                "url": "https://www.linkedin.com/in/JasonPatricKellyKrause/",
+                "username": "JasonPatricKellyKrause"
+            },
+            {
+                "network": "Credly",
+                "url": "https://www.credly.com/users/jasonkrause/",
+                "username": "jasonkrause"
+            },
+            {
+                "network": "GitHub",
+                "url": "https://github.com/jasonpatrickellykrause",
+                "username": "JasonPatricKellyKrause"
+            }
+        ],
+        "summary": "Technical professional with a diverse background in agile leadership, cybersecurity, system integration, platform engineering, and DevSecOps.",
+        "url": "https://jasonkrause.me"
+    },
+    "certificates": [
+        {
+            "date": "2023-04-14",
+            "issuer": "Project Management Institute",
+            "name": "Project Management Professional (PMP)",
+            "summary": "PMP® Number: 3451936"
+        },
+        {
+            "date": "2022-01-13",
+            "issuer": "Google Cloud",
+            "name": "Google Cloud Certified Associate Cloud Engineer",
+            "summary": "Certification ID: GE4VyA"
+        },
+        {
+            "date": "2021-11-16",
+            "issuer": "Google Cloud",
+            "name": "Google Cloud Certified Professional Cloud Developer",
+            "summary": "Certification ID: hm2YvU"
+        },
+        {
+            "date": "2020-12-31",
+            "issuer": "Tigera",
+            "name": "Certified Calico Operator: Level 1",
+            "summary": "Kubernetes Networking and Security using Calico"
+        },
+        {
+            "date": "2020-04-09",
+            "issuer": "(ISC)²",
+            "name": "Certified Information Systems Security Professional (CISSP)",
+            "summary": "(ISC)² Member ID 718670"
+        },
+        {
+            "date": "2007-04-27",
+            "issuer": "CompTIA",
+            "name": "Security+",
+            "summary": "Candidate ID COMP10287400"
+        },
+        {
+            "date": "2017-10-19",
+            "issuer": "CompTIA",
+            "name": "Security+ CE",
+            "summary": "Candidate ID COMP10287400"
+        },
+        {
+            "date": "2020-11-23",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified: Azure Administrator Associate",
+            "summary": "Certification Number: HS82-0452"
+        },
+        {
+            "date": "2020-07-01",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "summary": "Certification Number: H449-6971"
+        },
+        {
+            "date": "2017-01-01",
+            "issuer": "Microsoft ",
+            "name": "Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure",
+            "summary": "Certification Number: G044-6702"
+        },
+        {
+            "date": "2016-11-29",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure (Charter)",
+            "summary": "Certification Number: G011-6004"
+        },
+        {
+            "date": "2016-09-26",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified Solutions Expert: Mobility (Charter)",
+            "summary": "Certification Number: F806-4597"
+        },
+        {
+            "date": "2016-09-01",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified Solutions Associate: Windows Server 2016 (Charter)",
+            "summary": "Certification Number: F893-9803"
+        },
+        {
+            "date": "2016-01-08",
+            "issuer": "Microsoft",
+            "name": "Microsoft Specialist: Planning for and Managing Devices in the Enterprise (Charter)",
+            "summary": "Certification Number: F623-1292"
+        },
+        {
+            "date": "2015-12-14",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified Solutions Associate: Windows 10 (Charter)",
+            "summary": "Certification Number: F529-0516"
+        },
+        {
+            "date": "2015-11-25",
+            "issuer": "Microsoft",
+            "name": "Microsoft Specialist: Configuring Windows Device (Charter)",
+            "summary": "Certification Number: F477-5108"
+        },
+        {
+            "date": "2014-01-24",
+            "issuer": "Microsoft ",
+            "name": "Microsoft Specialist: Server Virtualization with Windows Server Hyper-V and System Center",
+            "summary": "Certification Number: E736-4560"
+        },
+        {
+            "date": "2013-04-16",
+            "issuer": "Microsoft ",
+            "name": "Microsoft Certified Solutions Associate: Windows Server 2012",
+            "summary": "Certification Number: E238-9391"
+        },
+        {
+            "date": "2012-09-07",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified Technology Specialist: Windows Server 2008 R2, Server Virtualization",
+            "summary": "Certification Number: E004-5246"
+        },
+        {
+            "date": "2012-04-16",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified Solutions Associate: Windows Server 2008",
+            "summary": "Certification Number: D713-8802"
+        },
+        {
+            "date": "2009-09-30",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified Technology Specialist: Windows Server 2008 Applications Infrastructure, Configuration",
+            "summary": "Certification Number: B007-4777"
+        },
+        {
+            "date": "2009-09-30",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified IT Professional: Enterprise Administrator on Windows Server 2008",
+            "summary": "Certification Number: B007-4779"
+        },
+        {
+            "date": "2008-10-13",
+            "issuer": "Microsoft",
+            "name": "Microsoft Certified Technology Specialist: Windows Server 2008 Active Directory, Configuration",
+            "summary": "Certification Number: B007-4775"
+        },
+        {
+            "date": "2008-10-13",
+            "issuer": "Microsoft",
+            "name": " Microsoft Certified Technology Specialist: Windows Server 2008 Network Infrastructure, Configuration",
+            "summary": "Certification Number: B007-4776"
+        },
+        {
+            "date": "2019-08-08",
+            "issuer": "Scrum.org",
+            "name": "Professional Scrum Master I",
+            "summary": "https://www.scrum.org/certificates/439036"
+        },
+        {
+            "date": "2019-12-26",
+            "issuer": "Precision Nutrition",
+            "name": "Precision Nutrition Level 1 Certificate",
+            "summary": ""
+        },
+        {
+            "date": "2017-08-13",
+            "issuer": "CrossFit",
+            "name": "CrossFit Level 2 Trainer Certificate",
+            "summary": ""
+        },
+        {
+            "date": "2015-09-25",
+            "issuer": "CrossFit",
+            "name": "CrossFit Level 1 Trainer Certificate",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "area": "Computer Science - Cybersecurity Engineering",
+            "courses": [],
+            "endDate": "2020-05-09",
+            "gpa": "3.96",
+            "institution": "Colorado Technical University",
+            "startDate": "2017-12-31",
+            "studyType": "Master",
+            "url": "https://www.coloradotech.edu/"
+        },
+        {
+            "area": "Computer Systems Security",
+            "courses": [],
+            "endDate": "2011-12-31",
+            "gpa": "3.78",
+            "institution": "Colorado Technical University",
+            "startDate": "2007-12-31",
+            "studyType": "Bachelor",
+            "url": "https://www.coloradotech.edu/"
+        },
+        {
+            "area": "Network Systems Security",
+            "courses": [],
+            "endDate": "2007-12-31",
+            "gpa": "3.69",
+            "institution": "Colorado Technical University",
+            "startDate": "2006-12-31",
+            "studyType": "Associate",
+            "url": "https://www.coloradotech.edu/"
+        }
+    ],
+    "interests": [
+        {
+            "keywords": [
+                "Certified CrossFit Level 3 Trainer (CF-L3)",
+                "Playing Bass Guitar",
+                "Reading",
+                "Taking care of my cats",
+                "Video Games"
+            ],
+            "name": "Indoor Activities"
+        },
+        {
+            "keywords": [
+                "Climbing",
+                "Mountain Biking",
+                "Snowboarding",
+                "Trail Running"
+            ],
+            "name": "Outdoor Activities"
+        }
+    ],
+    "languages": [
+        {
+            "fluency": "Native speaker",
+            "language": "English"
+        }
+    ],
+    "meta": {
+        "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+        "lastModified": "2017-12-24T15:53:00",
+        "version": "v1.0.0"
+    },
+    "skills": [
+        {
+            "keywords": [
+                "Top Secret",
+                "Single Scope Background Investigation (SSBI)"
+            ],
+            "level": "Top Secret",
+            "name": "Security Clearance"
+        }
+    ],
+    "work": [
+        {
+            "description": "",
+            "highlights": [
+                "Efficiently managing software products and ensuring successful execution and delivery.",
+                "Serving as the primary point of contact for customer issues and outcomes.",
+                "Oversee technical team efforts to ensure alignment with stakeholder objectives",
+                "Effectively managing the team's workload and ensuring positive outcomes.",
+                "Facilitating the removal of any team blockers to maintain smooth operations.",
+                "Engaging with key stakeholders to align technical tasks appropriately.",
+                "Managing sprint planning meetings, sprints, backlogs, and roadmaps to ensure successful project execution."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "RVCM",
+            "position": "Technical Project Manager",
+            "startDate": "2022-09-12",
+            "summary": "Serve as a Technical Project Manager for multiple projects in RVCM's portfolio.",
+            "url": "https://www.rvcm.com/"
+        },
+        {
+            "description": "Dark Wolf Solutions is an IT consultancy firm that offers software development, system engineering and management solutions.",
+            "endDate": "2022-09-09",
+            "highlights": [
+                "Enterprise-level Scrum Master facilitated task flow across Value Stream Scrum of Scrums",
+                "Coached Scrum Masters on Agile framework execution",
+                "Facilitated communication between teams and business/technical leadership",
+                "Coached business and technical leadership teams on Agile philosophies, framework, and culture",
+                "Facilitated business leadership & technical leadership backlog grooming",
+                "Removed enterprise wide blockers",
+                "Helped map dependencies of all work, across all product teams"
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Dark Wolf Solutions",
+            "position": "Principal Associate",
+            "startDate": "2020-11-09",
+            "summary": "Scrum Lord, Scrum Knight, Scrum Master, and DevSecOps Engineer at Platform One",
+            "url": "https://www.darkwolfsolutions.com/"
+        },
+        {
+            "endDate": "2020-11-09",
+            "highlights": [
+                "Team goals included replacing costly legacy lab solutions with Lab as a Service (LaaS) solution that provided internal customers with immutable test infrastructure.",
+                "Success of initial program ignited interest in developing similar solution beyond development into test and delivery.",
+                "Work with stakeholders and customers to develop continuous integration platform pipeline using Gitlab CI, HashiCorp Packer, Ansible, and OpenSCAP."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Raytheon Technologies",
+            "position": "Platform Engineer / Scrum Master",
+            "startDate": "2020-06-01",
+            "summary": "Developer and Scrum Master for DevSecOps Platform Engineering team.",
+            "url": "https://www.rtx.com/"
+        },
+        {
+            "endDate": "2020-05-31",
+            "description": "",
+            "highlights": [
+                "Refactored Group Policy testing and deployment to ensure delivery of versioned security baselines to production systems.",
+                "Brought system baselines into current Security Technical Implementation Guide (STIG) recommendations.",
+                "Successfully migrated team code base to GitLab ensuring accurate change history and version control.",
+                "Performed additional role as Scrum Master for automation team.",
+                "Worked as servant-leader to facilitate value delivery and remove developer roadblocks."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Raytheon Technologies",
+            "position": "Senior Cybersecurity Engineer II / Scrum Master",
+            "startDate": "2019-03-01",
+            "summary": "Cybersecurity Engineer specializing in compliant automation",
+            "url": "https://www.rtx.com/"
+        },
+        {
+            "endDate": "2019-02-28",
+            "description": "",
+            "highlights": [
+                "Developed stand-alone PowerShell based solutions to deploy and verify the mitigation of vulnerabilities in legacy Windows systems.",
+                "Accelerated deployment of modern Windows systems as a PowerShell Desired State Configuration developer.",
+                "Worked with customer prioritize legacy system vulnerability remediation while minimizing resources required to meet customer needs."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Raytheon Technologies",
+            "position": "Senior Cybersecurity Engineer II",
+            "startDate": "2018-04-01",
+            "summary": "Designed Cybersecurity solutions for the NORAD Integrated Tactical Warning/Attack Assessment and Space Support Contract (NISSC).",
+            "url": "https://www.rtx.com/"
+        },
+        {
+            "endDate": "2018-03-01",
+            "description": "",
+            "highlights": [
+                "Designed and lead product demos, Proof of Concepts and pilot engagements to help drive requirements, success factors, and customer confidence in End User Engineer's (EUC) proprietary software solutions.",
+                "Work closely with the EUC software development team to communicate requirements and participate in functional design and prioritization of software enhancement/features backlog.",
+                "Design and deliver training and procedures for end user consumption."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Vykin Corporation",
+            "position": "Senior End User Computing Engineer",
+            "startDate": "2017-10-01",
+            "summary": "Work with Vykin's customers to architect Windows-based end-user solutions",
+            "url": "https://www.sosi.com/"
+        },
+        {
+            "endDate": "2017-09-01",
+            "highlights": [
+                "Specialized in Windows, Server, Active Directory and Virtualization technologies with deep understanding and ability to deliver timely and creative incident resolution focused on root cause analysis prevention, and subsequent knowledge transfer.",
+                "Successfully managed Microsoft IaaS resources for major political campaign event resulting in system-wide stability and security."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Microsoft",
+            "position": "Premier Field Engineer",
+            "startDate": "2016-01-01",
+            "summary": "Platform PFE for DoD customers working primarily with Navy, MDA, and USMC customers.",
+            "url": "https://www.microsoft.com/"
+        },
+        {
+            "endDate": "2016-01-01",
+            "description": "",
+            "highlights": [
+                "Explore and test new Windows versions and features for inclusion in the enterprise.",
+                "Supported Microsoft Endpoint Configuration Manager (SCCM) infrastructure.",
+                "Engineered, tested, and implemented disaster recovery solution using Hyper-V Replica.",
+                "Led team in server deployments during SCCM Distribution Point upgrades and documented process improvements."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Lockheed Martin",
+            "position": "Senior System Integration Analyst",
+            "startDate": "2013-10-01",
+            "summary": "Develop and test Windows images for enterprise deployment.",
+            "url": "https://www.lockheedmartin.com"
+        },
+        {
+            "endDate": "2013-10-01",
+            "description": "",
+            "highlights": [
+                "Led team in efforts related to PowerShell scripting and automation.",
+                "Implemented numerous improvements to standard operating procedures resulting in efficient and standardized processes that reduced workflow bottlenecks.",
+                "Developed and performed integration and system tests for Active Directory service upgrades.",
+                "Tested ongoing software upgrades and enhancements with a focus on directory service quality and stability."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Lockheed Martin",
+            "position": "Senior System Administrator",
+            "startDate": "2009-05-01",
+            "summary": "Established role in the company as an expert in Group Policy and Active Directory delegation.",
+            "url": "https://www.lockheedmartin.com"
+        },
+        {
+            "endDate": "2009-05-01",
+            "description": "",
+            "highlights": [
+                "Maintain smooth operation of computer systems.",
+                "Duties include active directory and group policy management, SMS and WSUS administration and software deployment, Operating System, and application support.",
+                "Worked with Dept. of Defense and USAF programs to evangelize new operating system deployment and testing.",
+                "Achieved the highest percentage of upgraded systems and test participants among participating sites.",
+                "Developed role-based security procedures using administrative and technical controls that stabilized network while enhancing system security.",
+                "Consolidated costly legacy systems to VMware."
+            ],
+            "location": "Colorado Springs, CO",
+            "name": "Lockheed Martin",
+            "position": "Senior System Administrator",
+            "startDate": "2007-08-01",
+            "summary": "Support unclassified networks for Air Force and contractors.",
+            "url": "https://www.lockheedmartin.com"
+        }
+    ]
+}
