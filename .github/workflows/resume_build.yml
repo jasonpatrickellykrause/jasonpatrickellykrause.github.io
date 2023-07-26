@@ -21,9 +21,9 @@ jobs:
         run: |
           npm update -g npm --no-fund
           npm install resumed -g --no-fund
-          npm install jsonresume-theme-kendall -g --no-fund
+          npm install jsonresume-theme-rnord -g --no-fund
           resumed validate resume.jsonc
-          resumed render resume.jsonc --theme jsonresume-theme-kendall --output index.html
+          resumed render resume.jsonc --theme jsonresume-theme-rnord --output index.html
       - name: Commit published HTML
         id: commit
         run: |
