@@ -1,7 +1,7 @@
 {
     "basics": {
         "email": "jasonkrause@live.com",
-        "image": "bio-photo.jpg",
+        "picture": "bio-photo.jpg",
         "label": "Passionate automator, advocate for a growth mindset and grit.",
         "location": {            
             "city": "Monument",
