@@ -1,7 +1,4 @@
 node_modules/
 npm-debug.log
-*.html
-*.pdf
-
 package.json
 package-lock.json
