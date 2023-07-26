@@ -293,11 +293,11 @@
                 "Engaging with key stakeholders to align technical tasks appropriately.",
                 "Managing sprint planning meetings, sprints, backlogs, and roadmaps to ensure successful project execution."
             ],
-            "location": "Colorado Springs, CO",
+            "location": "Remote",
             "name": "RVCM",
             "position": "Technical Project Manager",
             "startDate": "2022-09-12",
-            "summary": "Served as a Technical Project Manager for multiple projects in RVCM's portfolio.",
+            "summary": "Served as a Technical Project Manager for multiple projects for Centers for Medicare & Medicaid Services.",
             "url": "https://www.rvcm.com/"
         },
         {
@@ -309,10 +309,9 @@
                 "Facilitated communication between teams and business/technical leadership",
                 "Coached business and technical leadership teams on Agile philosophies, framework, and culture",
                 "Facilitated business leadership & technical leadership backlog grooming",
-                "Removed enterprise wide blockers",
                 "Helped map dependencies of all work, across all product teams"
             ],
-            "location": "Colorado Springs, CO",
+            "location": "Remote",
             "name": "Dark Wolf Solutions",
             "position": "Principal Associate",
             "startDate": "2020-11-09",
@@ -323,32 +322,17 @@
             "description": "Aerospace and defense company",
             "endDate": "2020-11-09",
             "highlights": [
-                "Team goals included replacing costly legacy lab solutions with Lab as a Service (LaaS) solution that provided internal customers with immutable test infrastructure.",
-                "Success of initial program ignited interest in developing similar solution beyond development into test and delivery.",
-                "Work with stakeholders and customers to develop continuous integration platform pipeline using Gitlab CI, HashiCorp Packer, Ansible, and OpenSCAP."
-            ],
-            "location": "Colorado Springs, CO",
-            "name": "Raytheon Technologies",
-            "position": "Platform Engineer / Scrum Master",
-            "startDate": "2020-06-01",
-            "summary": "Developer and Scrum Master for DevSecOps Platform Engineering team.",
-            "url": "https://www.rtx.com/"
-        },
-        {
-            "description": "Aerospace and defense company",
-            "endDate": "2020-05-31",
-            "highlights": [
+                "Piloted Lab as a Service (LaaS) solution that provided internal customers with immutable test infrastructure.",
+                "Work with stakeholders and customers to develop continuous integration platform pipeline using GitLab continous integration, HashiCorp tools, Ansible, and OpenSCAP.",
                 "Refactored Group Policy testing and deployment to ensure delivery of versioned security baselines to production systems.",
                 "Brought system baselines into current Security Technical Implementation Guide (STIG) recommendations.",
-                "Successfully migrated team code base to GitLab ensuring accurate change history and version control.",
-                "Performed additional role as Scrum Master for automation team.",
                 "Worked as servant-leader to facilitate value delivery and remove developer roadblocks."
             ],
             "location": "Colorado Springs, CO",
             "name": "Raytheon Technologies",
-            "position": "Senior Cybersecurity Engineer II / Scrum Master",
+            "position": "Platform Engineer / Scrum Master",
             "startDate": "2019-03-01",
-            "summary": "Cybersecurity Engineer specializing in compliant automation",
+            "summary": "Developer and Scrum Master for DevSecOps Platform Engineering team, specializing in compliance automation and platform hardening",
             "url": "https://www.rtx.com/"
         },
         {
@@ -373,7 +357,7 @@
                 "Specialized in Windows, Server, Active Directory and Virtualization technologies with deep understanding and ability to deliver timely and creative incident resolution focused on root cause analysis prevention, and subsequent knowledge transfer.",
                 "Successfully managed Microsoft IaaS resources for major political campaign event resulting in system-wide stability and security."
             ],
-            "location": "Colorado Springs, CO",
+            "location": "Remote",
             "name": "Microsoft",
             "position": "Premier Field Engineer",
             "startDate": "2016-01-01",
@@ -389,7 +373,7 @@
                 "Engineered, tested, and implemented disaster recovery solution using Hyper-V Replica.",
                 "Led team in server deployments during SCCM Distribution Point upgrades and documented process improvements."
             ],
-            "location": "Colorado Springs, CO",
+            "location": "Remote",
             "name": "Lockheed Martin",
             "position": "Senior System Integration Analyst",
             "startDate": "2013-10-01",
@@ -400,28 +384,28 @@
             "endDate": "2013-10-01",
             "description": "Aerospace and defense manufacturer",
             "highlights": [
+                "Established role in the company as an expert in Group Policy and Active Directory delegation.",
                 "Led team in efforts related to PowerShell scripting and automation.",
                 "Implemented numerous improvements to standard operating procedures resulting in efficient and standardized processes that reduced workflow bottlenecks.",
                 "Developed and performed integration and system tests for Active Directory service upgrades.",
                 "Tested ongoing software upgrades and enhancements with a focus on directory service quality and stability."
             ],
-            "location": "Colorado Springs, CO",
+            "location": "Remote",
             "name": "Lockheed Martin",
-            "position": "Senior System Administrator",
+            "position": "Senior System Engineer",
             "startDate": "2009-05-01",
-            "summary": "Established role in the company as an expert in Group Policy and Active Directory delegation.",
+            "summary": "Responsible for maintenance and upgrades of one of the largest Active Directory instances deployed.",
             "url": "https://www.lockheedmartin.com"
         },
         {
             "endDate": "2009-05-01",
             "description": "Aerospace and defense manufacturer",
             "highlights": [
-                "Maintain smooth operation of computer systems.",
-                "Duties include active directory and group policy management, SMS and WSUS administration and software deployment, Operating System, and application support.",
+                "Reduced costs by virtuallizing legacy systems.",
+                "Active Directory and Group Policy management, SMS and WSUS administration and software deployment, operating system and application support.",
                 "Worked with Dept. of Defense and USAF programs to evangelize new operating system deployment and testing.",
                 "Achieved the highest percentage of upgraded systems and test participants among participating sites.",
-                "Developed role-based security procedures using administrative and technical controls that stabilized network while enhancing system security.",
-                "Consolidated costly legacy systems to VMware."
+                "Developed role-based security procedures using administrative and technical controls that stabilized network while enhancing system security."
             ],
             "location": "Colorado Springs, CO",
             "name": "Lockheed Martin",
