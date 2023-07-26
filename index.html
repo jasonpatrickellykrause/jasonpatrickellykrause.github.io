@@ -16,43 +16,27 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 
 body {
-	background: #ECEFF4;
+	background: #fff;
 	font-family: Lato, sans-serif;
 	font-weight: 300;
-	color: #2E3440;
+	color: #333;
 	margin: 0 0 80px;
 	font-size: 15px;
 }
 
-::selection {
-  background: #000;
-  color: #fff;
-}
-
-::-moz-selection {
-  background: #000;
-  color: #fff;
-}
-
 a {
-	color: #5E81AC;
-  font-weight: 500;
-  text-decoration: underline;
-  text-decoration-color: #D8DEE9;
-  text-decoration-thickness: 2px;
+	color: #E32B46;
 }
 
 a:focus, a:hover {
-	color: #4C566A;
-  text-decoration: underline;
-  text-decoration-color: #5E81AC;
-  text-decoration-thickness: 2px;
+	color: #333;
+	text-decoration: none;
 }
 
 strong {
 	font-size: smaller;
 	font-weight: 400;
-	color: #4C566A;
+	color: #333;
 }
 
 p {
@@ -67,7 +51,7 @@ p + p {
 h1, h2, h3, h4 {
 	margin-top: 0;
 	font-weight: 300;
-	color: #81A1C1;
+	color: #555;
 }
 
 section {
@@ -86,7 +70,7 @@ li {
 li:before {
 	content: "\f052";
 	float: left;
-	font: 14px Octicons;
+	font: 16px Octicons;
 	margin-top: 6px;
 	margin-left: -20px;
 	opacity: .1;
@@ -94,19 +78,19 @@ li:before {
 }
 
 blockquote {
-  border-left: 3px solid #5E81AC;
+  border-left: 3px solid #e7e9ec;
   font-size: 14px;
   margin-bottom: 4px;
 }
 
 em {
-	color: #4C566A;
+	color: #666;
 	font-weight: 300;
 	font-style: normal;
 }
 
 h4 span:first-child {
-	color: #4C566A;
+	color: #333;
 	font-weight: 400;
 }
 
@@ -132,12 +116,12 @@ h4 span:first-child {
 }
 
 #header h2 {
-	color: #4C566A;
+	color: #95a5a6;
 	font-size: 24px;
 }
 
 #content h3 {
-	color: #4C566A;
+	color: #555;
 	font-size: 26px;
 	margin-top: -4px;
 }
@@ -153,7 +137,6 @@ h4 span:first-child {
 
 #work .position,
 #volunteer .position {
-  color: #5E81AC;
 	font-weight: 400;
 	margin-bottom: 8px;
 }
@@ -169,7 +152,7 @@ h4 span:first-child {
 }
 
 #education .studyType {
-	margin-left: 32px;
+	margin-left: 25px;
 }
 
 #awards .summary,
@@ -181,13 +164,9 @@ h4 span:first-child {
 	content: attr(href);
 }
 
-.shadow {
-  box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
-}
-
 @media (min-width: 480px) {
 	.strike-through {
-		border-top: 1px solid #D8DEE9;
+		border-top: 1px solid #f4f6f6;
 		height: 20px;
 		margin-top: 12px;
 		margin-bottom: -2px;
@@ -196,7 +175,7 @@ h4 span:first-child {
 
 	.strike-through span,
 	.strike-through a {
-		background: #ECEFF4;
+		background: #fff;
 		position: absolute;
   }
 
@@ -305,7 +284,7 @@ h4 span:first-child {
 
 	blockquote {
 		border: 0;
-		border-left: 3px solid #5E81AC;
+		border-left: 3px solid #e7e9ec;
 		font-size: 12px;
 	}
 
@@ -387,7 +366,7 @@ h4 span:first-child {
 		<div class="container">
 			<div class="row">
         <div class="col-sm-3">
-          <img src="bio-photo.jpg" class="img-responsive img-circle pull-right shadow" style="max-height: 88px">
+          <img src="" class="img-responsive img-circle pull-right" style="max-height: 88px">
         </div>
 				<div class="col-sm-9">
           <h1>Jason Patric Kelly Krause</h1>
