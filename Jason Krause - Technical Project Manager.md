@@ -13,16 +13,22 @@ Experienced technical project manager, scrum master, and agile coach with a prov
 - Agile Methodologies
 - Open-Source Software
 - Process Improvement
+- Remote Team Leadership
 - Scrum Ceremony Planning
 - Servant Leadership
-- Sprint Planning
-- Team Leadership
 - Technical Product Delivery
 - Training & Mentoring
 
 ## Professional Experience
 
 ### RVCM
+
+ RVCM
+: Mission-driven digital transformation firm focused on Agile DevSecOps practices for government agencies.
+
+Technical Project Manager
+
+September 2022 – July 2023
 
 ### Dark Wolf Solutions
 

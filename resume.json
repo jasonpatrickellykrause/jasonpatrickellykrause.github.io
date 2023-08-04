@@ -323,7 +323,7 @@
             "endDate": "2020-11-09",
             "highlights": [
                 "Piloted Lab as a Service (LaaS) solution that provided internal customers with immutable test infrastructure.",
-                "Work with stakeholders and customers to develop continuous integration platform pipeline using GitLab continous integration, HashiCorp tools, Ansible, and OpenSCAP.",
+                "Work with stakeholders and customers to develop continuous integration platform pipeline using GitLab continuous integration, HashiCorp tools, Ansible, and OpenSCAP.",
                 "Refactored Group Policy testing and deployment to ensure delivery of versioned security baselines to production systems.",
                 "Brought system baselines into current Security Technical Implementation Guide (STIG) recommendations.",
                 "Worked as servant-leader to facilitate value delivery and remove developer roadblocks."
