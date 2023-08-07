@@ -341,8 +341,8 @@
             "url": "https://www.rtx.com/"
         },
         {
-            "endDate": "2019-02-28",
             "description": "Aerospace and defense company",
+            "endDate": "2019-02-28",
             "highlights": [
                 "Developed stand-alone PowerShell based solutions to deploy and verify the mitigation of vulnerabilities in legacy Windows systems.",
                 "Accelerated deployment of modern Windows systems as a PowerShell Desired State Configuration developer.",
@@ -370,8 +370,8 @@
             "url": "https://www.microsoft.com/"
         },
         {
-            "endDate": "2016-01-01",
             "description": "Aerospace and defense manufacturer",
+            "endDate": "2016-01-01",
             "highlights": [
                 "Explore and test new Windows versions and features for inclusion in the enterprise.",
                 "Supported Microsoft Endpoint Configuration Manager (SCCM) infrastructure.",
@@ -386,8 +386,8 @@
             "url": "https://www.lockheedmartin.com"
         },
         {
-            "endDate": "2013-10-01",
             "description": "Aerospace and defense manufacturer",
+            "endDate": "2013-10-01",
             "highlights": [
                 "Established role in the company as an expert in Group Policy and Active Directory delegation.",
                 "Led team in efforts related to PowerShell scripting and automation.",
@@ -403,8 +403,8 @@
             "url": "https://www.lockheedmartin.com"
         },
         {
-            "endDate": "2009-05-01",
             "description": "Aerospace and defense manufacturer",
+            "endDate": "2009-05-01",
             "highlights": [
                 "Reduced costs by virtuallizing legacy systems.",
                 "Active Directory and Group Policy management, SMS and WSUS administration and software deployment, operating system and application support.",
