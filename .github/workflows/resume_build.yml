@@ -17,11 +17,13 @@ jobs:
     needs: check_run
     steps:
       - uses: actions/checkout@v3
-      - name: Export resume as HTML
+      - name: Install
         run: |
           npm update -g npm --no-fund
           npm install resumed -g --no-fund
           npm install jsonresume-theme-even -g --no-fund
+      - name: Export resume as HTML
+        run: |
           resumed validate resume.json
           resumed render resume.json --theme jsonresume-theme-even --output index.html
       - name: Commit published HTML
