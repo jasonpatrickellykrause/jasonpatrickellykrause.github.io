@@ -19,9 +19,9 @@ jobs:
       - uses: actions/checkout@v3
       - name: Install
         run: |
-          npm update -g npm --no-fund
-          npm install resumed -g --no-fund
-          npm install jsonresume-theme-even -g --no-fund
+          npm update npm --no-fund
+          npm install resumed --no-fund
+          npm install jsonresume-theme-even --no-fund
       - name: Export resume as HTML
         run: |
           resumed validate resume.json
