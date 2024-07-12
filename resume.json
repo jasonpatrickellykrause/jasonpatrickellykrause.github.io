@@ -287,6 +287,17 @@
     ],
     "work": [
         {
+            "description": "",
+            "endDate": "",
+            "highlights": [],
+            "location": "Remote",
+            "name": "Raft",
+            "position": "Technical Product Manager",
+            "startDate": "2024-08-21",
+            "summary": "",
+            "url": "https://teamraft.com/"
+        },
+        {
             "description": "RVCM is a mission-driven digital transformation firm focused on Agile DevSecOps practices that deliver scale, speed, and security for government agencies and enterprises facing continually evolving IT needs and cyber security threats.",
             "endDate": "2023-07",
             "highlights": [
