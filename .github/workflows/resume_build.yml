@@ -20,8 +20,8 @@ jobs:
       - name: Install
         run: |
           npm update npm --no-fund
-          npm install resumed --no-fund
-          npm install jsonresume-theme-even --no-fund
+          npm install resumed -g --no-fund
+          npm install jsonresume-theme-even -g --no-fund
       - name: Export resume as HTML
         run: |
           resumed validate resume.json
