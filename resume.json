@@ -41,8 +41,14 @@
         {
             "date": "2023-04-14",
             "issuer": "Project Management Institute",
+            "name": "Risk Management Professional (PMI-RMP)",
+            "summary": "Certification Number: 3951716"
+        },
+                {
+            "date": "2023-04-14",
+            "issuer": "Project Management Institute",
             "name": "Project Management Professional (PMP)",
-            "summary": "PMP® Number: 3451936"
+            "summary": "Certification Number: 3451936"
         },
         {
             "date": "2022-01-13",
