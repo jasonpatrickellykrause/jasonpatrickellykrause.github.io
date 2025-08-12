@@ -289,13 +289,14 @@
     "work": [
         {
             "description": "Accelerating agile federal innovation through open source DevSecOps, data analytics, and human-centered design.",
+            "endDate": "2025-04",
             "highlights": [
                 "As a Technical Product Manager and business analyst, I work closely with customers to understand their business needs and processes. I collaborate with them to identify areas for improvement in both the MXS and Gravity software factories. By bridging the gap between customer requirements and software development, I aim to streamline business processes and enhance the overall customer experience."
             ],
             "location": "Remote",
             "name": "Raft",
             "position": "Technical Product Manager",
-            "startDate": "2024-08-21",
+            "startDate": "2023-08-21",
             "summary": "",
             "url": "https://teamraft.com/"
         },
