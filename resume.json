@@ -288,6 +288,37 @@
     ],
     "work": [
         {
+            "description": "Accelerating federal efficiency with productized, mission-focused solutions that scale.",
+            "highlights": [
+                "Serve as Deputy Program Manager for the VIDA-DMS program supporting U.S. Coast Guard CG-C5I, overseeing delivery of CREST (compliance reporting for environmental standards and tracking) and Trident (the mariner and vessel experience portal).",
+                "Lead Agile delivery across a multi-team program spanning low-code (Appian) development, portal engineering, and DevSecOps infrastructure on AWS GovCloud.",
+                "Drive ATO and STIG compliance efforts in partnership with ISSO/ISSM stakeholders, advancing the program toward Authorization to Operate.",
+                "Own program schedule, risk reporting, and milestone delivery for a federal regulatory compliance platform, including contract execution and subcontractor coordination under a STARS III GWAC task order."
+            ],
+            "location": "Remote",
+            "name": "VivSoft",
+            "position": "US Coast Guard Portfolio Manager",
+            "startDate": "2026-05",
+            "summary": "",
+            "url": "https://www.vivsoftgov.com/"
+        },
+        {
+            "description": "Accelerating federal efficiency with productized, mission-focused solutions that scale.",
+            "endDate": "2026-05",
+            "highlights": [
+                "Served as Technical Product Manager for the VIDA-DMS program, supporting product delivery for CREST and Trident on behalf of U.S. Coast Guard CG-C5I.",
+                "Partnered with software architects, DevOps engineers, and QA leads to plan and deliver sprint-based releases across interconnected product teams.",
+                "Facilitated Agile program management including sprint planning, backlog grooming, and release tracking for a multi-product federal delivery program.",
+                "Contributed to security and compliance readiness efforts, including STIG assessments and ATO documentation."
+            ],
+            "location": "Remote",
+            "name": "VivSoft",
+            "position": "Technical Product Manager",
+            "startDate": "2025-10",
+            "summary": "",
+            "url": "https://www.vivsoftgov.com/"
+        },
+        {
             "description": "Accelerating agile federal innovation through open source DevSecOps, data analytics, and human-centered design.",
             "endDate": "2025-04",
             "highlights": [
